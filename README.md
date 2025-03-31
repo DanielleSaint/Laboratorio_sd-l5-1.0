@@ -13,15 +13,15 @@ The classes, objects, and functions for each of these tasks will be imported int
     * Given an input transaction amount, export a function that returns the value of what she should be paying.
         * This function should be able to take a number as input, and return a number as output.
 
-3. Ed would like a way to input the names of three of his friends.
+2. Ed would like a way to input the names of three of his friends.
     * Export a class that will take 3 arguments to construct an object with 3 properties.
         * The 3 properties in the constructor should be called `name1`, `name2`, and `name3`.
 
-4. Ed would like a way to calculate an age from a given birth date.
+3. Ed would like a way to calculate an age from a given birth date.
     * Export a function that will take 3 arguments - a **year**, a **month**, and a **day** - then return an accurate age.
         * For example, `ageCalculator(2000, 12, 25)` should return the age of someone born on Christmas Day, 2000.
 
-5. Ed would like a way to calculate the ages of his friends.
+4. Ed would like a way to calculate the ages of his friends.
     * Export a class that will return a string containing a given friend's name and age. It should:
         * Take 4 arguments - a **name**, a **year**, a **month**, and a **day** - and construct an object with those 4 properties.
         * Have a public method named `returnAge()` that will return the following string: `<name> is <age> today!`
